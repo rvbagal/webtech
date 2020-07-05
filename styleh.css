@@ -1,0 +1,31 @@
+body
+{
+ background-color: rgb(241, 234, 223)
+}
+
+.logo
+{
+  display: flex;
+ justify-content: flex-end ;
+ 
+}
+
+
+ul {
+  
+  list-style: none;
+  display: inline-flex;
+  background-color: #fff782;
+  display: block;
+  padding : 3%;
+  margin : 1% 100px 1% 100px;
+  justify-content: first baseline;
+  border: black solid 
+ 
+
+}
+
+
+
+
+p{ color: black}

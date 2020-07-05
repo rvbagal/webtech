@@ -1,0 +1,27 @@
+ul {
+  
+  list-style: none;
+  display: inline-flex;
+  background-color: #e0ffc4;
+  display: block;
+  padding : 3%;
+  margin : 1% 100px 1% 100px;
+  
+
+}
+
+
+
+.logo
+{
+  display: flex;
+ justify-content: flex-end ;
+  
+}
+
+body
+{
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9FVQLsUui5Nf4mH4FA1jrsnIjvGe8w_h0fA&usqp=CAU) ;
+ background-size: cover;
+}
+
